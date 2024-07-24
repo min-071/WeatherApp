@@ -1,0 +1,20 @@
+JavaScript:
+- Asynchronous function `getWeather()` fetches weather data based on user input.
+- Constructs API URL using city name and API key, fetches data, and handles responses.
+- Dynamically generates weather information HTML elements.
+- Provides functions to determine weather icon and change background image.
+- Implements error handling for API call errors.
+
+HTML:
+- Contains input field and button to trigger weather data fetch.
+- Displays weather information inside a designated container.
+
+CSS:
+- Styles main container, input field, button, and weather information display.
+- Adds hover effects, focus states, and transitions for improved user experience.
+- Styles weather boxes with rounded corners, shadows, and hover effects.
+
+Overall:
+- User-friendly interface for checking weather information.
+- Utilizes asynchronous JavaScript and dynamic UI updates.
+- Enhanced visual appeal and usability through CSS styling.
